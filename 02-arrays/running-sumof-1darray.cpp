@@ -1,4 +1,4 @@
-//Running Sum of 1d Array (LC 1480)
+//1480. Running Sum of 1d Array
 vector<int> runningSum(vector<int>& nums){
       vector<int> ans;
       int sum=nums[0];
